@@ -1,0 +1,7 @@
+[[frustration]] is experienced whenever the results (goals) you are expecting do not seem to fit the effort and action you are applying. Frustration will occur whenever your actions are producing less and fewer results than you think they should.
+
+The frustration we experience can be seen as the result of two types of goal blockage, i.e. internal and external sources of frustration.
+
+Internal sources of frustration usually involve the disappointment that we get when we cannot have what we want ==as a result of personal real or imagined deficiencies== such as a lack of confidence or fear of social situations.  Another type of internal frustration results when a person has competing goals that interfere with one another.
+
+The second type of frustration results from external causes that ==involve conditions outside the person such as physical roadblocks we encounter in life including other people and things that get in the way of our goals==.  One of the biggest sources of frustration in today's world is the frustration caused by the perception of wasting time. When you're standing in line at a bank, or in traffic, or on the phone, watching your day go by when you have got so much to do, that's one big frustration.

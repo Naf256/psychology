@@ -1,0 +1,16 @@
+Imagine all of your thoughts as if they were physical entities, swirling rapidly inside your mind. How is it
+possible that the brain is able to move from one thought to the next in an organized, orderly fashion? ==The
+brain is endlessly perceiving, processing, planning, organizing, and remembering—it is always active. Yet,
+you don’t notice most of your brain’s activity as you move throughout your daily routine. This is only one
+facet of the complex processes involved in cognition. Simply put, cognition is thinking, and it encompasses
+the processes associated with perception, knowledge, problem solving, judgment, language, and memory.
+Scientists who study cognition are searching for ways to understand how we integrate, organize, and
+utilize our conscious cognitive experiences without being aware of all of the unconscious work that our
+brains are doing (for example, Kahneman, 2011)==
+
+==Cognitive psychology is the field of psychology dedicated to examining how people think. It attempts
+to explain how and why we think the way we do by studying the interactions among human thinking,
+emotion, creativity, language, and problem solving, in addition to other cognitive processes.== Cognitive
+psychologists strive to determine and measure different types of intelligence, why some people are better
+at problem solving than others, and how emotional intelligence affects success in the workplace, among
+countless other topics.

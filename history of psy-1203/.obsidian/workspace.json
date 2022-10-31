@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "24c93bfb39ccef70",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5f73459f76f389c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ff0dc96f1fe310f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aristotle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a27d69130f05d88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "socretes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d701f425fb4fbaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "511f510e1084cccc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7837521daf41bf24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfc211b6d5ae8e6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b252c86b6bc7fbf1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "26cf4b37d7c9a07e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c443d824730e58b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69666c2b2f329e44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "socretes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63fd2775302d51ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "socretes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c06feff365235414",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c5fdfa0b896842c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "socretes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "3a27d69130f05d88",
+  "lastOpenFiles": [
+    "Aristotle.md",
+    "socretes.md"
+  ]
+}

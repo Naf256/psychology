@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "437bfb138d4bdf7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0748890bd2b1c094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10d72894f84cca15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "properties of cytoplasm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fc7b5689f9db3b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0a1018a1fbf6ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42689ab58579c689",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea5b4c7b61de96b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b07e21838bf21c61",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "right": {
+    "id": "85647dfeaba2ff86",
+    "type": "split",
+    "children": [
+      {
+        "id": "64867506932040e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1971055bdfe52c77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "properties of cytoplasm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2f93706a48e582c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "properties of cytoplasm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db47da9f85812e00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3aa445d8e1a5a253",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "properties of cytoplasm.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1971055bdfe52c77",
+  "lastOpenFiles": [
+    "structure of nucleus.md",
+    "properties of cytoplasm.md",
+    "metabolism of cells.md",
+    "functions of nucleus.md"
+  ]
+}

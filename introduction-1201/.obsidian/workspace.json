@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "39b55be47360de0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1464b43638d0aea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9876606a018e81f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "creativity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3b5c92257e259de",
+    "type": "split",
+    "children": [
+      {
+        "id": "b22047126cda616a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ea70db58df8e289",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10482380ac5b9c54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03de5e971da89861",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "73b951b5ad7ffe6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b479cd9c1c7f55d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ca1fb5cfa980671",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "creativity.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dadd42b5514cd766",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "creativity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fb09525387bb9ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8899a61819b81a76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "creativity.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.61978149414062
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "a9876606a018e81f",
+  "lastOpenFiles": [
+    "creativity.md",
+    "sources of frustration.md",
+    "psychological-perspective-of-language-development.md",
+    "conflict.md",
+    "components-of-language.md",
+    "reaction to frustration.md",
+    "frustration.md",
+    "conflict resolution.md",
+    "stress management.md",
+    "stress.md"
+  ]
+}
