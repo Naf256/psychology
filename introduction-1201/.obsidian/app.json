@@ -1,7 +1,7 @@
 {
   "vimMode": true,
   "pdfExportSettings": {
-    "pageSize": "A3",
+    "pageSize": "A4",
     "landscape": true,
     "margin": "0",
     "downscalePercent": 100

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "creativity.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -133,13 +133,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.61978149414062
-  },
-  "ribbon": {
-    "mostRecentAction": ""
+    "width": 230.61978149414062,
+    "collapsed": true
   },
   "active": "a9876606a018e81f",
   "lastOpenFiles": [
+    "steps in problem-solving.md",
+    "congnition.md",
     "creativity.md",
     "sources of frustration.md",
     "psychological-perspective-of-language-development.md",
@@ -147,8 +147,6 @@
     "components-of-language.md",
     "reaction to frustration.md",
     "frustration.md",
-    "conflict resolution.md",
-    "stress management.md",
-    "stress.md"
+    "conflict resolution.md"
   ]
 }

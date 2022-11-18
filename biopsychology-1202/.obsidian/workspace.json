@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characterizing biopsychology.md",
+                "file": "divisions of biopsychology.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "85647dfeaba2ff86",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characterizing biopsychology.md",
+                "file": "divisions of biopsychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characterizing biopsychology.md",
+                "file": "divisions of biopsychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characterizing biopsychology.md"
+                "file": "divisions of biopsychology.md"
               }
             }
           }
@@ -133,9 +134,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
-  "active": "3ae4fb1b55ad9e68",
+  "active": "42689ab58579c689",
   "lastOpenFiles": [
     "characterizing biopsychology.md",
     "biopsychology and other disciplines.md",
