@@ -3,8 +3,7 @@ the
 Associationism is a theory that connects learning to thought based on principles of
 organism's causal history. It views that mental processes can be explained in terms of the
 association of ideas. It has claimed that pairs of thoughts become associated based on the
-organisms past experience. It means that ideas originated in experience. entering the mind
-through the senses and undergoing certain associative operations.
+organisms past experience. 
 Associationism's popularity is in part due to how many different masters it can serve. In
 particular, associationism can be used as:
 a. A theory of learning
@@ -31,7 +30,7 @@ have done so for the last twenty years, the association will be strong indeed
 will be fat.
 c. The law of similarity. If two things are similar, the thought of one will tend to trigger
 the thought of the other.
-d. The law of contrast. Secing or recalling something may trigger the recollection of
+d. The law of contrast. Seeing or recalling something may trigger the recollection of
 something completely opposite. If you think of the tallest person you know, you may
 suddenly recall the shortest one as well.
 For 2000 years, these four laws were assumed to hold true. No one, however, cared that much
@@ -41,7 +40,7 @@ their studies of vision as well as their interest in epistemology.
 Hobbes understood complex experiences as being associations of simple experiences.
 which in turn were associations of sensations. The basic means of association, according to
 Hobbes, was coherence (contiguity), and the basic strength factor was repetition (frequency).
-The philosopher John Lacke (1632-1704) introduced the term "association of ideas" in
+The philosopher John Locke (1632-1704) introduced the term "association of ideas" in
 the fourth edition of his Essay Concerning Human Understanding (1700), where he described it
 as detrimental to rational thought. He suggested that complex emotions derived from pain and
 pleasure (simple ideas) associated with other ideas.
@@ -64,7 +63,7 @@ memory, imagination, dreams, and morality.
 James Mill (1773-1836) also elaborated on Hume's associationism. The elder Mill
 proposed a mechanistic theory that linked ideas together in "compounds" through the law of
 contiguity, with the law of frequency. His emphasis on the law of frequency as the key to
-earning makes his approach very similar to the behaviorists in the twentieth century. He decided
+learning makes his approach very similar to the behaviorists in the twentieth century. He decided
 to use the principles of utilitarianism and associationism to educate his son John Stuart Mill
 "scientifically." The younger Mill, whose defining metaphor for the association of ideas was
 "mental chemistry." differed from his father in claiming that the mind played an active rather

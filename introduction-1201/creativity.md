@@ -1,4 +1,5 @@
 #### CREATIVITY
+
 Creativity is the ability to generate, create, or discover new ideas,
 solutions, and possibilities. Very creative people often have intense 
 knowledge about something, work on it for years, look at novel solutions,
