@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "creativity.md",
-                "mode": "preview",
+                "file": "language development.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "73b951b5ad7ffe6d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "creativity.md",
+                "file": "language development.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "creativity.md",
+                "file": "language development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "creativity.md"
+                "file": "language development.md"
               }
             }
           }
@@ -138,9 +139,9 @@
   },
   "active": "a9876606a018e81f",
   "lastOpenFiles": [
+    "creativity.md",
     "steps in problem-solving.md",
     "congnition.md",
-    "creativity.md",
     "sources of frustration.md",
     "psychological-perspective-of-language-development.md",
     "conflict.md",
