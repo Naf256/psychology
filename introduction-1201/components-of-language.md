@@ -98,3 +98,12 @@ of which may be modified by adjectives and adverbs. Some syntaxes make use of th
 words appear, while others do not. In English, “The man bites the dog” is different from “The dog bites
 the man.” In German, however, only the article endings before the noun matter. “Der Hund beisst den
 Mann” means “The dog bites the man” but so does “Den Mann beisst der Hund.
+
+## More on Semantics
+
+Words do not possess fixed meanings but change their interpretation as a function of the context in which
+they are spoken. We use contextual information—the information surrounding language—to help us
+interpret it. Examples of contextual information include the knowledge that we have and that we know
+that other people have, and nonverbal expressions such as facial expressions, postures, gestures, and
+tone of voice. Misunderstandings can easily arise if people aren’t attentive to contextual information or
+if some of it is missing, such as it may be in newspaper headlines or in text messages.
