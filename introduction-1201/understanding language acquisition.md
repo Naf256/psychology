@@ -1,0 +1,38 @@
+Perhaps the most straightforward explanation of language development is that it occurs through
+principles of learning, including association, reinforcement, and the observation of others (Skinner,
+1965). There must be at least some truth to the idea that language is learned, because children learn the
+language that they hear spoken around them rather than some other language. Also supporting this idea
+is the gradual improvement of language skills with time. It seems that children modify their language
+through imitation, reinforcement, and shaping, as would be predicted by learning theories.
+
+But language cannot be entirely learned. For one, children learn words too fast for them to be learned
+through reinforcement. Between the ages of 18 months and 5 years, children learn up to 10 new
+words every day (Anglin, 1993). More importantly, language is more generative than it is imitative.
+Generativity refers to the fact that speakers of a language can compose sentences to represent new ideas
+that they have never before been exposed to. Language is not a predefined set of ideas and sentences that
+we choose when we need them, but rather a system of rules and procedures that allows us to create an
+infinite number of statements, thoughts, and ideas, including those that have never previously occurred.
+
+Other evidence that refutes the idea that all language is learned through experience comes from the
+observation that children may learn languages better than they ever hear them. Deaf children whose
+parents do not speak ASL very well nevertheless are able to learn it perfectly on their own, and may
+even make up their own language if they need to (Goldin-Meadow & Mylander, 1998). A group of
+deaf children in a school in Nicaragua, whose teachers could not sign, invented a way to communicate
+through made-up signs (Senghas, Senghas, & Pyers, 2005). The development of this new Nicaraguan
+Sign Language has continued and changed as new generations of students have come to the school and
+started using the language. Although the original system was not a real language, it is becoming closer
+and closer every year, showing the development of a new language in modern times.
+
+The linguist Noam Chomsky is a believer in the nature approach to language, arguing that human
+brains contain a language acquisition device that includes a universal grammar that underlies all human
+language (Chomsky, 1965, 1972). According to this approach, each of the many languages spoken
+around the world (there are between 6,000 and 8,000) is an individual example of the same underlying
+set of procedures that are hardwired into human brains. Chomsky’s account proposes that children are
+born with a knowledge of general rules of syntax that determine how sentences are constructed.
+
+Chomsky differentiates between the deep structure of an idea—how the idea is represented in the
+fundamental universal grammar that is common to all languages, and the surface structure of the
+idea—how it is expressed in any one language. Once we hear or express a thought in surface structure,
+we generally forget exactly how it happened. At the end of a lecture, you will remember a lot of the deep
+structure (i.e., the ideas expressed by the instructor), but you cannot reproduce the surface structure (the
+exact words that the instructor used to communicate the ideas).
