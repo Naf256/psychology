@@ -9,6 +9,7 @@ the test of empiricism, and as a result they are less influential now than they 
 because the predictions that it makes (particularly those regarding defense mechanisms) are often vague
 and unfalsifiable, and second, that the aspects of the theory that can be tested often have not received
 much empirical support.
+
 As examples, although Freud claimed that children exposed to overly harsh toilet training would
 become fixated in the anal stage and thus be prone to excessive neatness, stinginess, and stubbornness
 in adulthood, research has found few reliable associations between toilet training practices and adult
@@ -28,6 +29,7 @@ true for animals as well, and probably is better explained in terms of the brain
 term memories than in terms of repression. On the other hand, Freud’s important idea that expressing or
 talking through one’s difficulties can be psychologically helpful has been supported in current research
 (Baddeley & Pennebaker, 2009) and has become a mainstay of psychological therapy.
+
 A particular problem for testing Freudian theories is that almost anything that conflicts with a prediction
 based in Freudian theory can be explained away in terms of the use of a defense mechanism. A man
 who expresses a lot of anger toward his father may be seen via Freudian theory to be experiencing
