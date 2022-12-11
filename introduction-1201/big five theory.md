@@ -4,6 +4,7 @@ ground, with its five factors referred to as the Big Five personality factors. I
 in personality psychology today and the most accurate approximation of the basic personality dimensions
 (Funder, 2001). The five factors are openness to experience, conscientiousness, extroversion, agreeableness,
 and neuroticism (Figure 11.14). A helpful way to remember the factors is by using the mnemonic OCEAN.
+
 In the Five Factor Model, each person has each factor, but they occur along a spectrum. Openness to
 experience is characterized by imagination, feelings, actions, and ideas. People who score high on this
 factor tend to be curious and have a wide range of interests. Conscientiousness is characterized by
