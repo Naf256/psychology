@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "influence of language on thinking.md",
+                "file": "why we sleep.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "influence of language on thinking.md",
+                "file": "why we sleep.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "influence of language on thinking.md",
+                "file": "why we sleep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "influence of language on thinking.md"
+                "file": "why we sleep.md"
               }
             }
           }
@@ -140,6 +140,7 @@
   },
   "active": "a9876606a018e81f",
   "lastOpenFiles": [
+    "influence of language on thinking.md",
     "understanding language acquisition.md",
     "components-of-language.md",
     "language development.md",
@@ -148,7 +149,6 @@
     "steps in problem-solving.md",
     "congnition.md",
     "sources of frustration.md",
-    "conflict.md",
-    "reaction to frustration.md"
+    "conflict.md"
   ]
 }
