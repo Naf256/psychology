@@ -1,0 +1,5 @@
+Isolation means that organisms of the same species are separated, and happens when there is something between the organisms that they can't cross. Organisms become isolated as a result of environmental change. The cause of isolation can be gradual, like when mountains or deserts form, or continents split apart. It can also be quick, such as organisms being blown to different places by a storm or tsunami (tidal waves).
+
+When organisms become isolated the two groups are also not able to reproduce together, so variations and mutations that occur in one group are not necessarily found in the other group. The longer the groups are isolated, the more different they are. They eventually become different species. Moreover, if there is a change in the environment of one group it does not necessarily occur in the environment of the other. So they will evolve and adapt differently.
+
+The finches and other organisms that Darwin found on the Galapagos Islands are examples that demonstrate the effect that environmental change and isolation can have on a species.
