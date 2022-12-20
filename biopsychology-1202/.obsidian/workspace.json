@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "divisions of biopsychology.md",
+                "file": "functions of nucleus.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "divisions of biopsychology.md",
+                "file": "functions of nucleus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "divisions of biopsychology.md",
+                "file": "functions of nucleus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "divisions of biopsychology.md"
+                "file": "functions of nucleus.md"
               }
             }
           }
@@ -137,15 +137,17 @@
     "width": 269.5,
     "collapsed": true
   },
-  "active": "42689ab58579c689",
+  "active": "3ae4fb1b55ad9e68",
   "lastOpenFiles": [
-    "characterizing biopsychology.md",
-    "biopsychology and other disciplines.md",
-    "biopsychology.md",
-    "Biopsychology ( PDFDrive ).pdf",
+    "metabolism of cells.md",
+    "evolution.md",
+    "isolation.md",
+    "mutation.md",
     "properties of cytoplasm.md",
     "structure of nucleus.md",
-    "metabolism of cells.md",
-    "functions of nucleus.md"
+    "characterizing biopsychology.md",
+    "Biopsychology ( PDFDrive ).pdf",
+    "divisions of biopsychology.md",
+    "biopsychology and other disciplines.md"
   ]
 }
