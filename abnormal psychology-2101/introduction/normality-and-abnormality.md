@@ -64,10 +64,19 @@ example, pain of child birth or hunger seem to belong to this field.
 
 #### Disability or disfunction -
 
-
-Dysfunction is one of the common characteristics associated with abnormality. Dysfunction refers to the idea that abnormal behavior or thoughts can interfere with a person's ability to function effectively in their daily life. This may include difficulties with work, relationships, or other aspects of daily living. For example, someone who is experiencing depression or anxiety may have difficulty concentrating at work, or may withdraw from social interactions with friends and family, which can impact their relationships and daily activities. Additionally, someone who is experiencing addiction may have difficulty fulfilling responsibilities at work or home, which can lead to negative consequences and further dysfunction. Dysfunction can be a key indicator of abnormality because it suggests that the behavior or thoughts are causing significant impairment or distress in the person's life, and may require treatment or intervention to address.
-
-
+Dysfunction is one of the common characteristics associated with abnormality.
+Dysfunction refers to the idea that abnormal behavior or thoughts can interfere
+with a person's ability to function effectively in their daily life. This may
+include difficulties with work, relationships, or other aspects of daily living.
+For example, someone who is experiencing depression or anxiety may have
+difficulty concentrating at work, or may withdraw from social interactions with
+friends and family, which can impact their relationships and daily activities.
+Additionally, someone who is experiencing addiction may have difficulty
+fulfilling responsibilities at work or home, which can lead to negative
+consequences and further dysfunction. Dysfunction can be a key indicator of
+abnormality because it suggests that the behavior or thoughts are causing
+significant impairment or distress in the person's life, and may require
+treatment or intervention to address.
 
 #### Unexpectedness -
 
