@@ -62,7 +62,7 @@ others cold heartedly and may continually violate the law without experiencing
 any guilt, remorse or anxiety whatsoever. And not all form of distress for
 example, pain of child birth or hunger seem to belong to this field.
 
-#### Disability or disfunction -
+#### Disability or dysfunction -
 
 Dysfunction is one of the common characteristics associated with abnormality.
 Dysfunction refers to the idea that abnormal behavior or thoughts can interfere
