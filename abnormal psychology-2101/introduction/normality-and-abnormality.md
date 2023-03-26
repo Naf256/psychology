@@ -59,4 +59,26 @@ experiencing it. Personal distress clearly fits many of the forms of abnormality
 that is considered in the field of psychology. People experiencing anxiety
 disorder of depression truly suffer greatly. The psychopaths for example, treats
 others cold heartedly and may continually violate the law without experiencing
-any guilt, remorse or anxiety whatsoever.
+any guilt, remorse or anxiety whatsoever. And not all form of distress for
+example, pain of child birth or hunger seem to belong to this field.
+
+#### Disability or disfunction -
+
+Abnormality is often associated with behaviors or thoughts that interfere with a
+person's ability to function normally in their daily life. This may include
+difficulties with work, relationships, or other aspects of daily living.
+
+#### Unexpectedness -
+
+Unexpectedness is another characteristic that can be associated with
+abnormality. This refers to the idea that abnormal behavior or thoughts may be
+unexpected or unusual in a given context, and may not be easily explained or
+predicted by typical or commonly observed patterns of behavior. For example, if
+someone suddenly starts experiencing intense anxiety or panic attacks in
+situations where they previously felt comfortable and confident, this may be
+seen as unexpected and abnormal. Similarly, if someone begins to exhibit
+behaviors or thoughts that are outside of their typical personality or
+character, this may be seen as unexpected and abnormal. The idea of
+unexpectedness is often considered in conjunction with other characteristics of
+abnormality, such as deviance, dysfunction, distress, and danger, to form a more
+comprehensive understanding of abnormal behavior.
