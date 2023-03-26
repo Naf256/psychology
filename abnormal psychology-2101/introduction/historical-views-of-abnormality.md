@@ -46,19 +46,3 @@ result, a more holistic approach to treatment is often employed, which may
 include medication, psychotherapy, and other forms of support. There is also a
 greater emphasis on reducing stigma and promoting mental health awareness, in
 order to improve access to care and support for those who need it.
-
-## Characteristics to abnormal behavior -
-
-#### Statistical Infrequency -
-
-One aspect of abnormal behavior is that it is infrequent. For example, episodes
-of mania and depression is a type of experience that occur only in 1% of
-population. The normal curve, or the bell-shaped curve, places the majority of
-the people in the middle. Very few people fall at either extreme. An Assertion
-that a person is normal implies that He or she does not deviate much from the
-average in a particular trait or behavioral pattern.
-
-Although some infrequent behavior do strike us as abnormal but they are not
-considered as a part in the field of abnormal psychology. For example, Having
-great athletic skills is infrequent, so is going through deep depression.
-However, the later one is only considered to be abnormal behavior.
