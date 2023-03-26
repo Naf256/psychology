@@ -57,7 +57,7 @@ Another characteristic of some form of abnormality is personal suffering, that
 is behavior is abnormal if it creates great distress or torment to the person
 experiencing it. Personal distress clearly fits many of the forms of abnormality
 that is considered in the field of psychology. People experiencing anxiety
-disorder of depression truly suffer greatly. The psychopaths for example, treats
+disorder or depression truly suffer greatly. The psychopaths for example, treats
 others cold heartedly and may continually violate the law without experiencing
 any guilt, remorse or anxiety whatsoever. And not all form of distress for
 example, pain of child birth or hunger seem to belong to this field.
