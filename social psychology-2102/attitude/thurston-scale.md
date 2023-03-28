@@ -1,3 +1,5 @@
+# Thurston Scale
+
 The Thurstone scale is a psychometric scaling technique used to measure
 attitudes or opinions. It was developed by psychologist Louis Leon Thurstone in
 the 1920s.

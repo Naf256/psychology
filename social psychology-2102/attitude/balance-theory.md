@@ -1,3 +1,5 @@
+# Balance Theory
+
 Balance theory is a social psychological theory that suggests that people strive
 for consistency and balance in their attitudes and relationships with others.
 The theory was first proposed by Fritz Heider in the 1940s and has since been
