@@ -28,7 +28,10 @@ candidate, the statements might include positive statements such as "I believe
 the candidate has strong leadership skills" and negative statements such as "I
 disagree with the candidate's stance on healthcare reform."
 
-To calculate an individual's score on the Thurstone scale, the scores of the statements that they agree with are summed and then divided by the total number of statements they agreed with. This yields an average score that represents their overall attitude or opinion towards the object being measured.
+To calculate an individual's score on the Thurstone scale, the scores of the
+statements that they agree with are summed and then divided by the total number
+of statements they agreed with. This yields an average score that represents
+their overall attitude or opinion towards the object being measured.
 
 Overall, the Thurstone scale is a useful tool for researchers looking to measure
 attitudes or opinions in a more nuanced and detailed way.
