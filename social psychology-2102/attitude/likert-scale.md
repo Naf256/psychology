@@ -1,3 +1,5 @@
+# Likert Scale -
+
 A Likert scale is a commonly used rating scale that measures the attitudes,
 beliefs, and opinions of individuals towards a particular statement or topic. It
 consists of a series of statements or questions, and the respondent is asked to
