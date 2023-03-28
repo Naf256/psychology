@@ -8,6 +8,11 @@ The Thurstone scale works by presenting participants with a series of statements
 related to the attitude being measured. These statements are selected based on
 their relevance and representativeness of the attitude being measured.
 
+Next, a group of judges or experts is asked to sort the statements into
+categories based on their degree of positivity or negativity. For example, they
+may sort the statements into categories ranging from "strongly agree" to
+"strongly disagree".
+
 Participants are then asked to rate each statement on a numerical scale,
 typically ranging from 1 to 11, indicating how strongly they agree or disagree
 with the statement. The ratings are then used to calculate an overall score for
@@ -23,9 +28,11 @@ candidate, the statements might include positive statements such as "I believe
 the candidate has strong leadership skills" and negative statements such as "I
 disagree with the candidate's stance on healthcare reform."
 
-Once all the ratings are collected, the scores are calculated based on the
-ratings given to each statement. This allows for a more accurate and nuanced
-measurement of attitudes, as compared to simpler rating scales.
+To calculate an individual's score on the Thurstone scale, the scores of the statements that they agree with are summed and then divided by the total number of statements they agreed with. This yields an average score that represents their overall attitude or opinion towards the object being measured.
 
 Overall, the Thurstone scale is a useful tool for researchers looking to measure
 attitudes or opinions in a more nuanced and detailed way.
+
+However, it can be time-consuming and resource-intensive to develop and
+administer, and the accuracy of the scores depends on the quality of the
+statements and the judgment of the sorting experts.
