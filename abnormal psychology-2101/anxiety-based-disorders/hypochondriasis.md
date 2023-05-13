@@ -1,4 +1,4 @@
-What is hypochondriasis?
+what is hypochondriasis?
 Hypochondriasis, also known as illness anxiety disorder, is a mental health condition characterized by a persistent and excessive worry about having a serious illness. People with hypochondriasis may have no physical symptoms, or they may misinterpret normal body sensations or minor symptoms as signs of a severe illness. Even after medical tests show no problems, people with hypochondriasis may continue to worry about their health.
 
 Symptoms of hypochondriasis
