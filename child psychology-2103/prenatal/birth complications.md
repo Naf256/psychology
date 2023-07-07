@@ -1,0 +1,118 @@
+Like Tamera Dixon, whose birth was described in the chapter prologue, 11% of
+infants are born earlier than normal. Preterm infants, or premature infants,
+are born prior to 38 weeks after conception. Because they have not had time
+to develop fully as fetuses, preterm infants are at high risk for illness
+and death.  The extent of danger faced by preterm babies largely depends on
+the child’s weight at birth, which has great significance as an indicator
+of the extent of the baby’s ­development.  Although the average newborn
+weighs around 3,400 grams (about 7½ pounds), low-­ birthweight infants weigh
+less than 2,500 grams (around 5½ pounds). Although only 7% of all newborns
+in the United States fall into the low-birthweight category, they account
+for the majority of newborn deaths (DeVader et al., 2007).  Although most
+low-birthweight infants are preterm, some are small-for-gestational-age
+babies. Small-for-gestational-age infants are infants who, because of delayed
+fetal growth, weigh 90% (or less) of the average weight of infants of the
+same gestational age. Small-for- gestational-age infants are sometimes also
+preterm, but may not be. The syndrome may be caused by inadequate nutrition
+during pregnancy (Bergmann, Bergmann, & Dudenhausen, 2008; Lyndsay et al.,
+2011).  If the degree of prematurity is not too great and weight at birth
+is not extremely low, the threat to the child’s well-being is relatively
+minor. In such cases, the main treatment may be to keep the baby in the
+hospital to gain weight. Additional weight is critical because fat layers
+help prevent chilling in neonates, who are not particularly efficient at
+regulating body temperature.  Newborns who are born more prematurely and who
+have birthweights significantly be- low average face a tougher road. For them,
+simply staying alive is a major task. For in- stance, low-birthweight infants
+are highly vulnerable to infection, and because their lungs have not had
+time to fully develop, they have problems taking in sufficient oxygen. As
+a con- sequence, they may experience respiratory distress syndrome (RDS),
+with potentially fatal consequences.
+
+To deal with respiratory distress syndrome, low-­ birthweight infants are
+often placed in incubators, ­enclosures in which temperature and oxygen
+content are controlled. The exact amount of oxygen is carefully moni-
+tored. Too low a concentration of oxygen will not provide relief, and too
+high a concentration can damage the delicate retinas of the eyes, leading
+to permanent blindness.  The immature development of preterm neonates makes
+them unusually sensitive to stimuli in their environment.  They can easily be
+overwhelmed by the sights, sounds, and sensations they experience, and their
+breathing may be in- terrupted or their heart rates may slow. They are often
+un- able to move smoothly; their arm and leg movements are uncoordinated,
+causing them to jerk about and appear star- tled. Such behavior is quite
+disconcerting to parents (Miles et al., 2006).  Despite the difficulties they
+experience at birth, the ma- jority of preterm infants develop normally in
+the long run.  However, the tempo of development often proceeds more slowly
+for preterm children compared to children born at full term, and more subtle
+problems may emerge later. For example, by the end of their first year, only
+10% of pre- maturely born infants display significant problems, and only 5%
+are seriously disabled. By the age of 6, however, approximately 38% have mild
+problems that call for spe- cial educational interventions. For instance,
+some preterm children show learning disabilities, behavior disorders,
+or lower-than-average IQ scores. Others have difficulties with physical
+coordination. Still, around 60% of preterm infants are free of even minor
+problems (Dombrowski, Noonan, & Martin, 2007; Hall et al., 2008; Grönqvist,
+Brodd, & von Hofsten, 2011).
+
+Very-Low-Birthweight Infants: The Smallest of the Small. The story is less
+positive for the most ex- treme cases of prematurity—very-low-birthweight
+infants.  Very-low-birthweight infants weigh less than 1250 grams (around 2¼
+pounds) or, regardless of weight, have been in the womb less than 30 weeks.
+Very-low-birthweight infants not only are tiny—some, like little Hattie
+Thatcher, fitting easily in the palm of the hand at birth—they hardly
+seem to belong to the same species as full-term newborns. Their eyes may
+be fused shut and their earlobes may look like flaps of skin on the sides
+of their heads. Their skin is a darkened red color, whatever their race.
+Very-low-birthweight babies are in grave danger from the moment they are
+born, due to the immaturity of their organ systems. Before the mid-1980s,
+these babies would not have survived outside their mothers’ wombs. However,
+medical advances have led to a higher chance of survival, pushing the age
+of viability, the point at which an infant can survive pre- maturely, to
+about 22 weeks—some four months earlier than the term of a normal delivery.
+Of course, the longer the period of development beyond conception, the higher
+are a new- born’s chances of survival. A baby born earlier than 25 weeks
+has less than a 50-50 chance of survival (see Figure 4-3 on page 108).
+The physical and cognitive problems experienced by low-birthweight and
+preterm babies are even more pronounced in very-low-birthweight infants,
+with astonishing financial con- sequences. A 4-month stay in an incubator
+in an intensive care unit can run into hundreds of thousands of dollars,
+and about half of these newborns ultimately die, despite massive medi- cal
+intervention (Taylor et al., 2000).  Even if a very-low-birthweight preterm
+infant survives, the medical costs can continue to mount. For instance,
+one estimate suggests that the average monthly cost of medical care for such
+infants during the first three years of life may be between 3 and 50 times
+higher than the medical costs for a full-term child. Such astronomical costs
+have raised ethical debates about the expenditure of substantial financial
+and human resources in cases in which a positive out- come may be unlikely
+(Prince, 2000; Doyle, 2004; Petrou, 2006).  As medical capabilities progress
+and developmental researchers come up with new strate- gies for dealing with
+preterm infants and improving their lives, the age of viability is likely
+to be pushed even earlier. Emerging evidence suggests that high-quality care
+can provide protec- tion from some of the risks associated with prematurity,
+and that in fact by the time they reach adulthood, premature babies may
+be little different from other adults (Hack et al., 2002).  Research also
+shows that preterm infants who receive more responsive, stimulating, and
+organized care are apt to show more positive outcomes than those children
+whose care is not as good. Some of these interventions are quite simple. For
+example, “Kangaroo Care” in which infants are held skin-to-skin against
+their parents’ chests appears to be effective in helping preterm infants
+develop. Massaging preterm infants several times a day triggers the release
+of hormones that promote weight gain, muscle development, and abilities to
+cope with stress ­(Erlandsson et al., 2007; Field et al., 2008; Blomqvist &
+Nyqvist, 2011; Feldman, 2011).
+
+
+Postmature Babies: Too Late, Too Large One might imagine that a baby
+who spends extra time in the womb might have some ­advantages, given the
+opportunity to continue growth undisturbed by the outside world. Yet postmature
+­infants—those still unborn two weeks after the mother’s due date—face
+several risks.  For example, the blood supply from the placenta may become
+insufficient to nourish the still-growing fetus adequately. Consequently,
+the blood supply to the brain may be decreased, leading to the potential
+of brain damage. Similarly, labor becomes riskier (for both the child and
+the mother) as a fetus who may be equivalent in size to a one-month-old
+infant has to make its way through the birth canal (Shea, Wilcox, & Little,
+1998; Fok, 2006).  Difficulties involving postmature infants are more easily
+prevented than those involving preterm babies, since medical practitioners
+can induce labor artificially if the pregnancy con- tinues too long. Not
+only can certain drugs bring on labor, but physicians also have the option
+of performing Cesarean deliveries, a form of delivery we consider next.
