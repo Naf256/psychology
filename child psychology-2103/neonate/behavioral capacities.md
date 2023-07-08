@@ -1,0 +1,61 @@
+Also talk about - 1. Habituation 2. Classical conditioning 3. Operant
+condiotioning
+
+Social Competence: Responding to Others Soon after Kaita was born, her
+older brother looked down at her in her crib and opened his mouth wide,
+pretending to be surprised. Kaita’s mother, looking on, was amazed when
+it ap- peared that Kaita imitated his expression, opening her mouth as if
+she were surprised.  Was Kaita’s response a happy coincidence or a true
+imitation of her brother’s expression?  Although infants were known to
+have all the muscles in place to produce facial expressions related to basic
+emotions, the actual appearance of such expressions was assumed to be largely
+random. However, research beginning in the late 1970s suggested a different
+conclusion. For in- stance, developmental researchers found that when an
+adult modeled a behavior that the infant already performed spontaneously,
+such as opening the mouth or sticking out the tongue, the newborn appeared to
+imitate the behavior (Meltzoff & Moore, 1977, 2002; Nagy, 2006).  Even more
+exciting were findings from a series of studies conducted by developmen-
+tal psychologist Tiffany Field and her colleagues (Field, 1982; Field &
+Walden, 1982; Field et al., 1984). They initially showed that infants could
+discriminate among such basic facial expressions as happiness, sadness, and
+surprise. They then exposed newborns to an adult model with a happy, sad,
+or surprised facial expression. The results suggested that newborns produced
+a reasonably accurate imitation of the adult’s expression.  However,
+subsequent research seemed to point to a different conclusion, as other in-
+vestigators found consistent evidence only for a single imitative movement:
+sticking out the tongue. And even that response seemed to disappear around the
+age of two months. Because it seems unlikely that imitation would be limited
+to a single gesture and only appear for a few months, some researchers began
+to question the earlier findings. In fact, some research- ers suggested that
+even sticking out the tongue was not imitation, but merely an exploratory
+behavior (Jones, 2006; 2007; Tissaw, 2007; Simcock, Garrity, & Barr, 2011).
+The jury is still out on exactly when true imitation begins, although it seems
+clear that some forms of imitation begin very early in life. Such imitative
+skills are important, because effective social interaction with others relies
+in part on the ability to react to other people in an appropri- ate manner
+and to understand the meaning of others’ emotional states. Consequently,
+newborns’ ability to imitate provides them with an important foundation for
+social interaction later in life (Rogers & Williams, 2006; Zeedyk & Heimann,
+2006; Legerstee & Markova, 2008).  Several other aspects of newborns’
+behavior also act as forerunners for more formal types of social interaction
+that they will develop as they grow. As shown in Table 4-6, certain charac-
+teristics of neonates mesh with parental behavior to help produce a social
+relationship between child and parent, as well as social relationships with
+others (Eckerman & Oehler, 1992).  For example, newborns cycle through various
+states of arousal, different degrees of sleep and wakefulness, ranging
+from deep sleep to great agitation. Although these cycles are disrupted
+immediately after birth, they quickly become more regularized. Caregivers
+become involved when they seek to aid the infant in transitions from one state
+to another. For instance, a father who rhythmically rocks his crying daughter
+in an effort to calm her is engaged in a joint activity that is a prelude
+to future social interactions of different sorts. Similarly, new- borns tend
+to pay particular attention to their mothers’ voices. In turn, parents and
+others modify their speech when talking to infants, using a different pitch
+and tempo than they use with older children and adults (De Casper & Fifer,
+1980; Smith & Trainor, 2008; Barr, 2011; Morgan, Horn, & Bergman, 2011).
+
+The ultimate outcome of the social interactive capabilities of the newborn
+infant, and the responses such behavior brings from parents, is to pave the
+way for future social interactions.  Just as the neonate shows remarkable
+skills on a physical and perceptual level, its social capa- bilities are no
+less sophisticated.
