@@ -60,6 +60,7 @@ climate, encourage two-way communication, and are responsive to the needs and
 concerns of their followers. Effective communication fosters understanding,
 cooperation, and alignment towards shared goals.
 
+
 In summary, social psychology highlights various factors that contribute to
 leadership effectiveness, including transformational leadership, authenticity
 and trust, emotional intelligence, social identity, power and influence,
