@@ -1,14 +1,15 @@
 Social psychology is closely connected to several disciplines within the field
-of psy- chology, including personality psychology, clinical psychology, and
-cognitive psy- chology.  Personality psychology. Personality psychologists
-focus on the role of individual differences, meaning aspects of people’s
-personality that make them dif- ferent from other people, in explaining how
-different people feel and behave in distinct ways. We often use personality
+of psychology, including personality psychology, clinical psychology, and
+cognitive psychology.
+Personality psychology. Personality psychologists focus on the role of 
+individual differences, meaning aspects of people’s personality that make them
+dif- ferent from other people, in explaining how different people feel and 
+behave in distinct ways. We often use personality
 descriptions to describe other people in our social world—my friend Darren
 is extraverted, my co-worker Deirdra is arro- gant, my boss Duane is neurotic.
 Whereas personality psychologists emphasize the role of individual differences
 between people in influencing attitudes, thoughts, and behaviors, social
-psychol- ogists emphasize the role of the situation. For example, if you
+psychologists emphasize the role of the situation. For example, if you
 observe a person driving very aggressively, you might immediately judge that
 person’s personality in a not-very-nice way (“She’s a careless person.”
 “She only thinks about herself.”).  A social psychologist, on the other
