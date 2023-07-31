@@ -79,7 +79,7 @@ who fail to attain this skill will feel unproductive and uninvolved in the
 world.
 
 8. Integrity vs. Despair The final psychosocial stage occurs during old age and
-   is focused on reflecting back on life.2﻿ At this point in development, people
+   is focused on reflecting back on life. At this point in development, people
    look back on the events of their lives and determine if they are happy with
    the life that they lived or if they regret the things they did or didn't do.
 
