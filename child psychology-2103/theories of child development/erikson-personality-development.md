@@ -25,7 +25,7 @@ The Role of Independence At this point in development, children are just
 starting to gain a little independence. They are starting to perform basic
 actions on their own and making simple decisions about what they prefer. By
 allowing kids to make choices and gain control, parents and caregivers can help
-children develop a sense of autonomy.2
+children develop a sense of autonomy.
 
 3. Initiative vs. Guilt The third stage of psychosocial development takes place
    during the preschool years. At this point in psychosocial development,
@@ -53,7 +53,7 @@ sense of competence, while failure results in feelings of inferiority.
    of self.
 
 During adolescence, children explore their independence and develop a sense of
-self.2﻿ Those who receive proper encouragement and reinforcement through personal
+self. Those who receive proper encouragement and reinforcement through personal
 exploration will emerge from this stage with a strong sense of self and feelings
 of independence and control. Those who remain unsure of their beliefs and
 desires will feel insecure and confused about themselves and the future.
@@ -61,7 +61,7 @@ desires will feel insecure and confused about themselves and the future.
 6. Intimacy vs. Isolation Young adults need to form intimate, loving
    relationships with other people. Success leads to strong relationships, while
    failure results in loneliness and isolation. This stage covers the period of
-   early adulthood when people are exploring personal relationships.2﻿
+   early adulthood when people are exploring personal relationships.
 
 Erikson believed it was vital that people develop close, committed relationships
 with other people. Those who are successful at this step will form relationships
@@ -74,7 +74,7 @@ that are enduring and secure.
 
 During adulthood, we continue to build our lives, focusing on our career and
 family. Those who are successful during this phase will feel that they are
-contributing to the world by being active in their home and community.2﻿ Those
+contributing to the world by being active in their home and community. Those
 who fail to attain this skill will feel unproductive and uninvolved in the
 world.
 
